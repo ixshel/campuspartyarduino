@@ -1,0 +1,24 @@
+{
+  "name": "arduino",
+  "version": "0.1.0",
+  "description": "a simple arduino test",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "johnny-five": "^0.9.58",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "arduino"
+  ],
+  "author": "Ixshel Escamilla",
+  "license": "MIT"
+}
